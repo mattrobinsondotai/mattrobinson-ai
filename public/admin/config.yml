@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: mattmrobinson-DBX/mattrobinson-ai
+  repo: mattrobinsondotai/mattrobinson-ai
   branch: main
 
 # For local development, uncomment below and comment out github backend
