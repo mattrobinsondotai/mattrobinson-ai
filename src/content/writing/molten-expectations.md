@@ -3,7 +3,7 @@ title: "Molten Expectations"
 description: "Liquid expectations seeped across category walls over years. Molten expectations blow them apart in months. The ground is moving — and whoever fills the space while it's still hot owns it."
 pubDate: 2026-03-09
 draft: false
-ogImage: /images/writing/molten-expectations/melting-structure.png
+ogImage: /images/writing/molten-expectations/og-image.png
 ---
 
 For most of the last century, building a big business meant the same thing: hire people, add layers, scale by adding bodies. Even the more sophisticated models (Apple's specialist-led matrix, Amazon's two-pizza teams) still assumed that value scales with headcount.
