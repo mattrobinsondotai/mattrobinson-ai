@@ -66,7 +66,7 @@ For years I've wanted a simple sports tracking app for my kids' basketball and r
 
 A few weekends ago, with Claude Code and Google Gemini, I built it. iOS app for iPhone and iPad, subscription model, brand design, design system, and a website. Whether my little app turns into the next Midjourney, the jury is very much out. But the gap between having an idea and shipping it has collapsed. That's the point.
 
-Users wait for tools to be handed to them. Builders assemble their own. Dave Clark, former SVP of Operations at Amazon, posted about a weekend where he built an entire customer prototype, reworked a deck, and created a custom CRM. Three things that used to take months, done in 72 hours.
+Dave Clark, former SVP of Operations at Amazon, posted about a weekend where he built an entire customer prototype, reworked a deck, and created a custom CRM. Three things that used to take months, done in 72 hours.
 
 The 12-month innovation pipeline won't survive when your competitors can come from anywhere. Including someone's couch.
 
