@@ -26,7 +26,7 @@ Expectations had become liquid: seeping across category walls, equalising everyt
 
 That was a decade ago. It took years for most businesses to even notice.
 
-Now, in 2026, Accenture's own employees are on Reddit complaining their internal AI tools are rubbish compared to what they use at home. The company that named liquid expectations is drowning in molten ones. People are waiting for IT to approve Microsoft Copilot while building entire products on their couch on a Sunday.
+Now, in 2026, Accenture's own employees are on Reddit complaining their internal AI tools are rubbish compared to what they use at home. The company that named liquid expectations is drowning in molten ones. The gap between what people can do at their kitchen table and what their employer lets them do at work has never been wider.
 
 Liquid expectations asked businesses to look outside their category or be disrupted. Molten expectations are asking something harder: rethink the business itself.
 
