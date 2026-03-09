@@ -92,6 +92,8 @@ Lava doesn't level the ground evenly. It creates new terrain that favours those 
 
 Molten doesn't stay molten forever. The lava cools.
 
+Arthur C. Clarke famously said any sufficiently advanced technology is indistinguishable from magic. He didn't see how quickly magic becomes furniture in 2026.
+
 Each expectation reset eventually hardens into the new baseline. The astonishing becomes normal. The impossible becomes table stakes. There's no un-knowing.
 
 The smart play is to be the one who fills the space while it's still liquid. Use AI to expand what you deliver, push into adjacent territory, solve problems your customers didn't know they could ask you to solve. Then harden that expectation. Make it the new floor. Because once it cools, it's permanent. And whoever set it owns the ground.
