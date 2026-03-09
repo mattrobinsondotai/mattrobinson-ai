@@ -102,7 +102,7 @@ The smart play is to be the one who fills the space while it's still liquid. Use
 
 ---
 
-[The monks were liberated](https://mattrobinson.ai/writing/the-monks-who-finally-got-to-think) when Gutenberg's press removed the copying task. That was about liberation. What comes next is harder: the ground itself is moving, and the opportunity belongs to anyone willing to build on it while it's still hot.
+[The monks were liberated](https://mattrobinson.ai/writing/the-monks-who-finally-got-to-think) when Gutenberg's press removed the copying task. That was about *freedom*. What comes next is harder: the ground itself is moving, and the opportunity belongs to anyone willing to build on it while it's still hot.
 
 Molten expectations will destroy as much as they create. Business models that worked for decades will be gone in months. Categories that felt permanent will dissolve. Roles that took years to master will be compressed into weekends. That's the destruction. The creation is everything that gets built in the space that opens up.
 
